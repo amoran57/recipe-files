@@ -14,38 +14,42 @@
  "chocolate chips"
  "cocoa powder"
  "powdered sugar"
+ "banana"
+ "cinnamon"
 
 ["breads", "pastries", "cakes", "cookies", "other"]
 
 {
-    "name": "French Bread",
+    "name": "Banana Bread",
     "id": 1003,
     "prepTime": 15,
-    "bakeTime": 15,
-    "totalTime": 105,
+    "bakeTime": 70,
+    "totalTime": 85,
     "imageName": "crumpet",
     "type": "breads",
-    "sysIng": ["water", "milk", "butter", "flour", "yeast", "baking powder", "salt"],
+    "sysIng": ["flour", "baking soda", "banana", "milk", "butter", "baking powder", "salt", "sugar", "brown sugar", "egg"],
     "ingredients": [
-         "1 1/2 cups (340g) lukewarm water",
-         "1 cup (227g) lukewarm milk",
-         "2 tablespoons (28g) melted butter",
-        "3 1/2 cups (418g) King Arthur Unbleached All-Purpose Flour",
-         "2 1/2 teaspoons instant yeast",
-         "1 teaspoon baking powder",
-         "1 1/4 teaspoons salt"
+         "2 cups all-purpose flour",
+"1 teaspoon baking powder",
+"1 teaspoon baking soda",
+"1 teaspoon salt",
+"3 ripe bananas, mashed",
+"1 tablespoon milk",
+"2 teaspoons vanilla",
+"1 teaspoon ground cinnamon, or to taste (optional)",
+"½ cup butter, softened",
+"½ cup white sugar",  
+"½ cup brown sugar",
+"2 eggs",
+"1 cup semisweet chocolate chips (optional)"
                 ],
     "instructions": [
-           "Combine all of the ingredients in a bowl, and beat vigorously for 2 minutes. A stand or hand mixer, set on high speed, work well here.",
-
-           "Cover the bowl, and let the batter rest at room temperature for 1 hour. It will expand and become bubbly. Towards the end of the rest, preheat a griddle to medium-low, about 325°F. If you don't have an electric griddle, preheat a frying pan; it shouldn't be as hot as the temperature you use to cook pancakes.",
-    
-           "Lightly grease the griddle or frying pan, and place well-greased 3 3/4-inch English muffin rings in the pan, as many as will fit. (If you don't have English muffin rings, use well-cleaned tuna cans, from which you've removed the top and bottom.) Pour sticky batter by the scant 1/4-cupful into each ring; a muffin scoop works well here.",
-
-           "After about 4 minutes, use a pair of tongs to slip the rings off. Cook the crumpets for a total of about 10 minutes on the first side, until their tops are riddled with small bubbles/holes. They should be starting to look a bit dry around the edges. Their bottoms will be a mottled, light-golden brown. Note: They probably won't be as full of holes as store-bought crumpets; that's OK.",
-
-           "Turn the crumpets over, and cook for an additional 5 minutes, to finish cooking the insides and to brown the tops gently. This isn't traditional; real crumpets are white on top, but the crumpet police won't chastise you for adding a little color to the tops.",
-
-     "Remove the crumpets from the pan, and repeat with the remaining batter, until all the crumpets are cooked. Serve warm. Or cool completely, wrap in plastic, and store at room temperature. To enjoy, warm in the toaster. Serve with butter, or butter and jam."
+          "Preheat oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan.",
+"Mix flour, baking powder, baking soda, and salt in a bowl. Stir bananas, milk, vanilla, and (optionally) cinnamon in another bowl.", 
+"Beat butter and both sugars in a third bowl until light and fluffy. Add eggs, one at a time, to butter mixture; beat thoroughly after adding each egg.", 
+"Stir the banana mixture into the butter mixture. Next, stir in the dry mixture until thoroughly blended.", 
+"Optional: Fold in chocolate chips.", 
+"Pour batter into the loaf pan.",
+"Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes. Cool in the pan for 10 minutes, then move to wire rack to let cool completely."
                    ]
 }
