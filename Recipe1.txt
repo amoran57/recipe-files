@@ -1,0 +1,52 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+{
+    "name": "Chocolate Sheet Cake",
+    "id": 1002,
+    "prepTime": 30,
+    "bakeTime": 20,
+    "totalTime": 110,
+    "imageName": "crumpet",
+    "type": "cakes",
+    "sysIng": ["sugar", "flour", "butter", "cocoa powder", "baking soda", "egg", "vanilla", "milk", "powdered sugar"],
+    "ingredients": [
+"2 cups white sugar",  
+"2 cups all-purpose flour",
+"1 cup butter, melted",
+"1 cup water",
+"4 tablespoons cocoa powder",
+"1 teaspoon baking soda",
+"½ cup milk",
+"2 eggs",
+"1 teaspoon vanilla extract",
+"½ cup butter",
+"3 tablespoons unsweetened cocoa powder",
+"5 tablespoons milk",
+"3 1/2 cupes (1 box) confectioners' sugar"
+                ],
+    "instructions": [
+           "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch pan.",
+"Mix white sugar and flour in a large bowl.", 
+"Combine 1 cup melted butter, water, and 3 tablespoons cocoa powder in a small saucepan; stir over medium heat until butter is melted and mixture is well combined. Pour melted butter mixture over sugar and flour; beat well.", 
+"Beat in baking soda, 1/2 cup milk, eggs, and vanilla extract. Pour batter into prepared pan.",
+"Bake in preheated oven until a toothpick inserted into the center of cake comes out clean, 20 to 25 minutes. Remove from oven and allow to cool on a wire rack.",
+"Combine remaining 1/2 cup butter, 3 tablespoons cocoa powder, and milk in a small saucepan; stir over medium heat until butter is melted and mixture is well combined. Beat powdered sugar into the butter mixture, mixing until frosting is smooth. Pour over cooled cake."
+  ]
+}
