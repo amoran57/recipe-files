@@ -1,0 +1,58 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+{
+    "name": "Snickerdoodles",
+    "id": 1007,
+    "prepTime": 15,
+    "bakeTime": 10,
+    "totalTime": 30,
+    "imageName": "crumpet",
+    "type": "cookies",
+    "sysIng": ["sugar", "butter", "flour", "egg", "baking soda", "vanilla", "cream of tartar", "salt", "cinnamon"],
+    "ingredients": [
+"1 cup softened butter",
+"1 ½ cups sugar",  
+"2 eggs",  
+"2 teaspoons vanilla",
+"2 ¾ cup cup flour",
+"2 teaspoons cream of tartar",
+"½ teaspoon baking soda",
+"½ teaspoon salt",
+"3 tablespoons sugar",
+"1 tablespoon cinnamon"
+                ],
+
+    "instructions": [
+          "Preheat oven to 400 degrees F (200 degrees C).",
+"In a large mixing bowl, cream butter and sugar until fluffy. Add eggs and vanilla.",
+"Blend in flour, cream of tartar, baking soda, and salt. Shape dough by rounded spoonfuls into balls."
+"In a small bowl, stir together sugar and cinnamon.",
+"Roll the balls of dough in the sugar-cinnamon mixture. Make sure that the balls are completely covered.", 
+"Place balls on an uncreased baking sheet, about 2 inches apart.",
+"Bake 8-12 minutes, until the cookies are well set. Let them cool on the sheet for several minutes."
+    ]
+}

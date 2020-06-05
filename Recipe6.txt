@@ -20,11 +20,13 @@
  "oatmeal"
  "raisins"
  "sour cream"
+ "cream of tartar"
+
 ["breads", "pastries", "cakes", "cookies", "other"]
 
 {
     "name": "French Bread",
-    "id": 1007,
+    "id": 1008,
     "prepTime": 15,
     "bakeTime": 15,
     "totalTime": 105,
