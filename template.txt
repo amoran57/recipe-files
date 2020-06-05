@@ -18,12 +18,13 @@
  "cinnamon"
  "peanut butter"
  "oatmeal"
-
+ "raisins"
+ "sour cream"
 ["breads", "pastries", "cakes", "cookies", "other"]
 
 {
     "name": "French Bread",
-    "id": 1005,
+    "id": 1007,
     "prepTime": 15,
     "bakeTime": 15,
     "totalTime": 105,
