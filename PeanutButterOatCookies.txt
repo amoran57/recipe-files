@@ -1,0 +1,51 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+{
+    "name": "Peanut Butter Oatmeal Cookies",
+    "id": 1004,
+    "prepTime": 15,
+    "bakeTime": 15,
+    "totalTime": 60,
+    "imageName": "crumpet",
+    "type": "cookies",
+    "sysIng": ["brown sugar", "sugar", "butter", "flour", "peanut butter", "egg", "baking soda", "salt", "oatmeal"],
+    "ingredients": [
+"1 cup butter, chilled",
+"¾ cup packed brown sugar",
+"¾ cup white sugar",
+"1 cup peanut butter",
+"2 eggs",
+"1 ½ cups all-purpose flour",
+"2 teaspoons baking soda",
+"1 teaspoon salt",
+"1 ½ cup quick-cooking oats"
+                ],
+    "instructions": [
+          "Preheat oven to 350 degrees F (175 degrees C).",
+"In a large bowl, cream together chilled butter, brown sugar, white sugar, and peanut butter until smooth. Beat in the eggs one at a time until well blended.", 
+"In a separate bowl, combine the flour, baking soda, and salt; stir into the creamed mixture.", 
+"Mix in the oats until just combined. Drop by teaspoonfuls onto ungreased cookie sheets.",
+"Bake for 10 to 15 minutes in the preheated oven, or until just light brown. Cool."
+    ]
+}
