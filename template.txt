@@ -26,13 +26,13 @@
 
 {
     "name": "French Bread",
-    "id": 1010,
+    "id": 1011,
     "prepTime": 15,
     "bakeTime": 15,
     "totalTime": 105,
     "imageName": "crumpet",
     "type": "breads",
-    "sysIng": ["water", "milk", "butter", "flour", "yeast", "baking powder", "salt"],
+    "sysIng": ["milk", "butter", "flour", "yeast", "baking powder", "salt"],
     "ingredients": [
         
                 ],

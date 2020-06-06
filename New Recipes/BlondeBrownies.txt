@@ -43,11 +43,10 @@
 "1/2 teaspoon salt"
                 ],
     "instructions": [
-"Preheat oven to 350°F.",
+"Preheat oven to 350°F, and grease an 8x8-inch pan",
           "Melt butter. Remove from heat. Add brown sugar; blend well and cool.",
 "Add egg and vanilla, and mix well.",
 "Add the dry ingredients (flour, baking powder, and salt). Mix well.",
-"Pour into a well-greased 8x8-inch pan.",
-"Bake at 350°F for 25 minutes."
+"Pour into the 8x8-inch pan and bake at 350°F for 25 minutes."
     ]
 }
