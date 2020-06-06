@@ -21,12 +21,16 @@
  "raisins"
  "sour cream"
  "cream of tartar"
+ "vegetable oil"
+ "honey"
 
 ["breads", "pastries", "cakes", "cookies", "other"]
 
+350°F
+
 {
     "name": "French Bread",
-    "id": 1011,
+    "id": 1012,
     "prepTime": 15,
     "bakeTime": 15,
     "totalTime": 105,

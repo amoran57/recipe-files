@@ -1,0 +1,60 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+{
+    "name": "Honey Whole Wheat Bread",
+    "id": 1011,
+    "prepTime": 40,
+    "bakeTime": 40,
+    "totalTime": 285,
+    "imageName": "crumpet",
+    "type": "breads",
+    "sysIng": ["flour", "yeast", "vegetable oil", "honey", "salt"],
+    "ingredients": [
+        "1 cup lukewarm water",
+"1 packet (2 1/2 teaspoons) yeast",
+"1 teaspoon salt",
+"1/4 cup honey",
+"3 1/2 cups whole wheat flour",
+"2 tablespoons vegetable oil",
+"2 tablespoons butter (optional)"
+                ],
+    "instructions": [
+          "In a large bowl, mix together the warm water, the yeast, the salt, and the honey, until the mixture is consistent throughout.",
+"Add in 2 cups of flour and the vegetable oil, and beat until smooth.",
+"Stir in the remaining flour until the dough begins to leave the sides of the bowl. Dough should be soft and easy to handle.",
+"Let the dough sit 20-30 minutes, then transfer to lightly oiled surface and knead for about 8 minutes. Dough should be supple",
+"Transfer the dough to a greased bowl, cover with a warm, damp cloth, and let sit 1-2 hours, until puffy (dough need not necessarily be doubled in size).",
+"Return the dough to a lightly oiled surface and shape into a loaf; place the loaf in a loaf pan and cover with greased plastic wrap.", 
+"Let rise until dough is an inch over the top of the pan in the center (about 1-2 hours). As the dough finishes rising, preheat the oven to 350°F.",
+"Bake the bread for 30 minutes; do not overbake. If needed, tent the loaf with aluminum foil after the first 20 minutes, to prevent browning; whole wheat flour means this bread will tend to brown.",
+"Remove from oven and let cool on a rack. If desired, rub the crust with butter to create a softer crust. Let bread cool completely before slicing."
+    ]
+}
