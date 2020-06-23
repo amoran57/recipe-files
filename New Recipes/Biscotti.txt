@@ -1,0 +1,85 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+ "blueberries"
+ "buttermilk"
+ "bourbon"
+ "lemon"
+ "cloves"
+ "black pepper"
+ "nutmeg"
+ "almonds"
+ "aniseed"
+
+
+"parchment paper"
+"mixer"
+
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+Need:
+2 more breads
+5 more cakes
+1 more cookies
+3 more other
+4 more pastries
+
+{
+    "name": "Biscotti",
+    "id": 1015,
+"yield": "1 loaf",
+"credit":"Aunt Melanie",
+"materials":["parchment paper","mixer"],
+    "prepTime": 15,
+    "bakeTime": 100,
+    "totalTime": 120,
+    "imageName": "crumpet",
+    "type": "cookies",
+    "sysIng": ["flour", "butter", "sugar", "egg", "baking powder", "salt", "almonds", "aniseed"],
+    "ingredients": [
+   "2 1/2 cups flour",
+"1 1/2 teaspoons baking powder",
+"1/2 teaspoon salt",
+"8 tablespoons cold butter",
+"1 1/4 cups sugar",
+"2 eggs",
+"1 cup toasted almonds, chopped",
+"1 tablespoon aniseed"     
+                ],
+    "instructions": [
+      "Preheat oven to 300°F. Line two large baking sheets with parchment paper.",
+"Sift or whisk the flour, baking powder, and salt together in a bowl. Set aside.",
+"Beat the butter and sugar together until just combined. Add eggs and beat. Do not overmix.",
+"Add the flour mixture, the almonds, and the aniseed to the butter mixture until just combined.",
+"Divide the dough in half. Lightly flour the countertop and roll each half of the dough into a log.",
+"Put a log on each baking sheet and bake for 45 minutes. Then switch the sheets in the oven, reversing from front to back and top to bottom, and bake for another 45 minutes.",
+"Remove from oven. While the logs are still hot, slice them into 1/2-inch wide pieces.",
+"Line the biscotti back on the baking tray and bake for another 10 minutes. Take out and let cool on a rack."
+  
+    ]
+}

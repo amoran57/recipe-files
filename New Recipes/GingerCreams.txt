@@ -1,0 +1,92 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+ "blueberries"
+ "buttermilk"
+ "bourbon"
+ "lemon"
+ "cloves"
+ "black pepper"
+ "nutmeg"
+ "almonds"
+ "aniseed"
+ "molasses"
+ "rum"
+ "dried ginger"
+ "fresh ginger"
+
+"parchment paper"
+"mixer"
+
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+Need:
+2 more breads
+5 more cakes
+0 more cookies
+3 more other
+4 more pastries
+
+{
+    "name": "Ginger Creams",
+    "id": 1016,
+"yield": "3 dozen cookies",
+"credit":"Aunt Melanie",
+"materials": ["parchment paper","mixer"],
+    "prepTime": 15,
+    "bakeTime": 10,
+    "totalTime": 90,
+    "imageName": "crumpet",
+    "type": "cookies",
+    "sysIng": ["butter", "sugar", "egg", "molasses", "rum", "flour", "salt", "baking soda", "nutmeg", "cloves", "dried ginger", "fresh ginger", "powdered sugar", "vanilla"],
+    "ingredients": [
+       "1/3 cup butter",
+"1/2 cup sugar",
+"1 egg",
+"1/2 cup molasses",
+"1/2 cup rum",
+"2 cups flour",
+"1/2 teaspoon salt",
+"1/2 teaspoon baking soda",
+"1/2 teaspoon nutmeg",
+"1/2 teaspoon cloves",
+"1 teaspoon dried ginger",
+"1 teaspoon freshly grated ginger",
+"3 tablespoons softened butter",
+"1 1/2 cups powdered sugar",
+"1 teaspoon vanilla" 
+                ],
+    "instructions": [
+   "Mix butter, sugar, egg, molasses, and rum.", 
+"In a separate bowl, mix together the dry ingredients.",
+"Add the ginger, and then mix the dry ingredients together with the wet ingredients.",
+"Cover and let chill for one hour. While the dough chills, prepare the frosting by mixing the butter, powdered sugar, and vanilla.",
+"Heat oven to 400°F. Using a teaspoon or a small cookie scoop, drop the dough onto baking sheets lined with parchment paper.",
+"Bake 8 minutes at 400°F, or until just set. Remove from oven and cool."      
+    ]
+}

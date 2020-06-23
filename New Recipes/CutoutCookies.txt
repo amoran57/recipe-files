@@ -1,0 +1,82 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+ "blueberries"
+ "buttermilk"
+ "bourbon"
+ "lemon"
+ "cloves"
+ "black pepper"
+ "nutmeg"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+Need:
+2 more breads
+5 more cakes
+2 more cookies
+3 more other
+4 more pastries
+
+{
+    "name": "Cutout Cookies",
+    "id": 1014,
+"yield": "4 dozen cookies",
+"credit": "Aunt Melanie",
+    "prepTime": 20,
+    "bakeTime": 15,
+    "totalTime": 240,
+    "imageName": "crumpet",
+    "type": "cookies",
+    "sysIng": ["butter", "honey", "sugar", "bourbon", "lemon", "egg", "flour", "baking soda", "salt", "cinnamon", "cloves", "black pepper", "nutmeg"],
+    "ingredients": [
+"3 tablespoons butter",
+"5 tablespoons honey", 
+"1/2 cups sugar",
+"3 tablespoons bourbon",
+"zest of 1 lemon",
+"1 egg",
+"3 cups flour",
+"1 1/4 teaspoons baking soda",
+"1/4 teaspoon salt",
+"1/4 teaspoon cinnamon,"
+"1/4 teaspoon cloves",
+"1/4 teaspoon black pepper",
+"1/4 teaspoon nutmeg"   
+                ],
+    "instructions": [
+"Place butter and honey in a saucepan. Melt, stirring often.",
+"Add sugar, bourbon, and lemon zest. Mix until sugar is melted.",
+ "While the mixture cools, blend the dry ingredients into a separate bowl.",
+"Once the honey mixture is cool, add the egg. Mix. Then add the wet ingredients to the dry mixture.",
+"Wrap with plastic wrap and chill in the fridge for 3 hours.",
+"Preheat the oven to 300°F. Sprinkle a countertop with flour, then divide the dough into thirds and roll out the dough. Put the dough that you're not working on back into the fridge.",
+"Cut the dough using cookie cutters or the opening of a drinking glass.",
+"Bake at 300°F for 12 minutes, or until just browned. Let cool."
+          
+    ]
+}

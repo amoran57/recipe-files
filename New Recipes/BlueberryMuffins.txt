@@ -39,7 +39,7 @@ Need:
 {
     "name": "Blueberry Muffins",
     "id": 1012,
-"yield": "12 muffins"
+"yield": "12 muffins",
     "prepTime": 15,
     "bakeTime": 20,
     "totalTime": 40,

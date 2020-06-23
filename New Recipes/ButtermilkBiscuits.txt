@@ -40,7 +40,7 @@ Need:
 {
     "name": "Buttermilk Biscuits",
     "id": 1013,
-    "yield": "12 biscuits"
+    "yield": "12 biscuits",
     "prepTime": 15,
     "bakeTime": 30,
     "totalTime": 45,
