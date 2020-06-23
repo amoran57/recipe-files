@@ -1,0 +1,66 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+ "blueberries"
+ "buttermilk"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+Need:
+2 more breads
+5 more cakes
+3 more cookies
+3 more other
+4 more pastries
+
+{
+    "name": "Buttermilk Biscuits",
+    "id": 1013,
+    "yield": "12 biscuits"
+    "prepTime": 15,
+    "bakeTime": 30,
+    "totalTime": 45,
+    "imageName": "crumpet",
+    "type": "other",
+    "sysIng": ["flour", "butter", "sugar", "buttermilk", "baking powder", "salt"],
+    "ingredients": [
+        "2 ¼ cups flour",
+"4 teaspoons baking powder",
+"1 teaspoon salt",
+"1 teaspoon sugar",
+"½ cup chilled butter, cubed",
+"1 cup buttermilk"
+                ],
+    "instructions": [
+          "Preheat the oven to 375°F.",
+"Whisk flour, baking powder, salt, and sugar in a large bowl.",
+"Add the chilled butter, and work it into the mixture until the whole thing resembles coarse meal.",
+"Add the buttermilk and stir until a soft dough forms.",
+"Scoop the dough out onto a baking sheet in ¼-cup portions.",
+"Bake at 375°F for 25-30 minutes, until golden brown."
+    ]
+}

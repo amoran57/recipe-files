@@ -1,0 +1,76 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+ "blueberries"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+Need:
+2 more breads
+5 more cakes
+3 more cookies
+4 more other
+4 more pastries
+
+{
+    "name": "Blueberry Muffins",
+    "id": 1012,
+"yield": "12 muffins"
+    "prepTime": 15,
+    "bakeTime": 20,
+    "totalTime": 40,
+    "imageName": "crumpet",
+    "type": "pastries",
+    "sysIng": ["flour", "brown sugar", "sugar", "salt", "baking powder", "vegetable oil", "egg", "milk", "blueberries", "butter", "cinnamon"],
+    "ingredients": [
+"⅓ cup brown sugar",  
+"2 tablespoons flour",
+"1 tablespoon butter, in tiny cubes",
+"½ teaspoon ground cinnamon",
+"1 ½ cups flour",
+"¾ cup sugar",  
+"½ teaspoon salt",
+"2 teaspoons baking powder",
+"⅓ cup vegetable oil",
+"1 egg",
+"⅓ cup milk",
+"1 cup fresh blueberries"
+                ],
+    "instructions": [
+         "Preheat oven to 400°F (200°C). Grease muffin cups or line with muffin liners.",
+
+"First, make the topping mixture: with a fork, mix together brown sugar, flour, butter, and cinnamon. Set aside.",
+
+"In a large bowl, combine flour, sugar, salt, and baking powder.",
+
+"In a separate bowl, mix vegetable oil with the egg and milk. Stir into the flour mixture.",
+
+"Fold in blueberries. Fill muffin cups about two-thirds full, and sprinkle with crumb topping mixture.",
+
+"Bake for 18 to 20 minutes at 400°F, or until done."
+    ]
+}
