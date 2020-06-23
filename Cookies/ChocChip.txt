@@ -1,0 +1,52 @@
+ {
+        "name": "Chocolate Chip Cookies",
+        "id": 1006,
+        "credit":"King Arthur",
+        "prepTime": 25,
+        "bakeTime": 12,
+        "totalTime": 45,
+        "imageName": "ChocChip",
+        "type": "cookies",
+        "sysIng": ["brown sugar", "sugar", "butter", "salt", "vanilla", "vinegar", "baking soda", "egg", "flour", "chocolate chips"],
+        "ingredients": [
+            "⅔ cup brown sugar",
+            "⅔ cup sugar",
+            "¾ cup butter",
+            "¾ teaspoon salt",
+            "2 teaspoons vanilla",
+            "1 teaspoon vinegar",
+            "1 teaspoon baking soda",
+            "1 large egg",
+            "2 cups flour",
+            "1 ½ cups chocolate chips"
+        ],
+        "instructions": [
+            
+            "Preheat the oven to 375°F. Lightly grease (or line with parchment) two baking sheets",
+            
+            "In an electric mixer, combine the sugars with the butter.",
+            
+            "Add the salt, vanilla, vinegar, and baking soda, beating until smooth and creamy",
+            
+            "Beat in the egg, again beating until smooth. Scrape the bottom and sides of the bowl with a spatula to make sure everything is thoroughly combined.",
+            
+            "Mix in the flour, then the chocolate chips.",
+            
+            "Scoop 1 ¼-inch balls of dough onto the prepared baking sheets, leaving 2 inches between them on all sides; they’ll spread.",
+            
+            "Bake the cookies for 11 to 12 minutes, until edges are golden brown.",
+            
+            "Remove the cookies from the oven, and cool on the pan until they’ve set enough to move without breaking. Repeat with the remaining dough."
+            
+        ],
+          "ingxins": [
+              [],
+              [0,1,2],
+              [3,4,5,6],
+              [7],
+              [8,9],
+              [],
+              [],
+              []
+              ]
+    }

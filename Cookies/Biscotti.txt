@@ -52,7 +52,7 @@ Need:
 {
     "name": "Biscotti",
     "id": 1015,
-"yield": "1 loaf",
+"yield": "2 dozen cookies",
 "credit":"Aunt Melanie",
 "materials":["parchment paper","mixer"],
     "prepTime": 15,

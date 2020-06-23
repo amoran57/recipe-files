@@ -1,0 +1,40 @@
+{
+        "name": "Crumpets",
+        "id": 1001,
+        "prepTime": 15,
+        "bakeTime": 15,
+        "totalTime": 105,
+        "imageName": "crumpet",
+        "type": "breads",
+        "sysIng": ["milk", "butter", "flour", "yeast", "baking powder", "salt"],
+        "ingredients": [
+            "1 ½ cups lukewarm water",
+            "1 cup lukewarm milk",
+            "2 tablespoons melted butter",
+            "3 ½ cups flour",
+            "2 ½ teaspoons yeast",
+            "1 teaspoon baking powder",
+            "1 ¼ teaspoons salt"
+        ],
+        "instructions": [
+            "Combine all of the ingredients in a bowl, and beat vigorously for 2 minutes. A stand or hand mixer, set on high speed, work well here.",
+            
+            "Cover the bowl, and let the batter rest at room temperature for 1 hour. It will expand and become bubbly. Towards the end of the rest, preheat a griddle to medium-low, about 325°F. If you don't have an electric griddle, preheat a frying pan; it shouldn't be as hot as the temperature you use to cook pancakes.",
+            
+            "Lightly grease the griddle or frying pan, and place well-greased 3 ¾-inch English muffin rings in the pan, as many as will fit. (If you don't have English muffin rings, use well-cleaned tuna cans, from which you've removed the top and bottom.) Pour sticky batter by the scant ¼-cupful into each ring; a muffin scoop works well here.",
+            
+            "After about 4 minutes, use a pair of tongs to slip the rings off. Cook the crumpets for a total of about 10 minutes on the first side, until their tops are riddled with small bubbles/holes. They should be starting to look a bit dry around the edges. Their bottoms will be a mottled, light-golden brown. Note: They probably won't be as full of holes as store-bought crumpets; that's OK.",
+            
+            "Turn the crumpets over, and cook for an additional 5 minutes, to finish cooking the insides and to brown the tops gently. This isn't traditional; real crumpets are white on top, but the crumpet police won't chastise you for adding a little color to the tops.",
+            
+            "Remove the crumpets from the pan, and repeat with the remaining batter, until all the crumpets are cooked. Serve warm. Or cool completely, wrap in plastic, and store at room temperature. To enjoy, warm in the toaster. Serve with butter, or butter and jam."
+        ],
+        "ingxins": [
+        [0,1,2,3],
+        [],
+        [],
+        [],
+        [],
+        []
+        ]
+    }
