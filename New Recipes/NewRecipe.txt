@@ -36,9 +36,13 @@
  "rum"
  "dried ginger"
  "fresh ginger"
+ "ricotta cheese"
+ "raspberries"
+
 
 "parchment paper"
 "mixer"
+"muffin liners"
 
 ["breads", "pastries", "cakes", "cookies", "other"]
 
@@ -48,12 +52,13 @@ Need:
 2 more breads
 5 more cakes
 0 more cookies
-3 more other
+2 more other
 4 more pastries
+
 
 {
     "name": "French Bread",
-    "id": 1017,
+    "id": 1018,
 "yield": "1 loaf",
 "credit":"",
 "materials": [""],
@@ -68,5 +73,15 @@ Need:
                 ],
     "instructions": [
           
-    ]
+    ],
+"ingxins": [
+            [],
+            [0,1,2],
+            [3,4,5,6],
+            [7],
+            [8,9],
+            [],
+            [],
+            []
+        ]
 }

@@ -1,0 +1,103 @@
+ "water" 
+ "milk" 
+ "butter"  
+ "flour"
+ "yeast"
+ "baking powder"
+ "salt"
+ "brown sugar"
+ "sugar"
+ "vanilla"
+ "vinegar"
+ "baking soda"
+ "egg"
+ "chocolate chips"
+ "cocoa powder"
+ "powdered sugar"
+ "banana"
+ "cinnamon"
+ "peanut butter"
+ "oatmeal"
+ "raisins"
+ "sour cream"
+ "cream of tartar"
+ "vegetable oil"
+ "honey"
+ "blueberries"
+ "buttermilk"
+ "bourbon"
+ "lemon"
+ "cloves"
+ "black pepper"
+ "nutmeg"
+ "almonds"
+ "aniseed"
+ "molasses"
+ "rum"
+ "dried ginger"
+ "fresh ginger"
+ "ricotta cheese"
+ "raspberries"
+
+
+"parchment paper"
+"mixer"
+"muffin liners"
+
+["breads", "pastries", "cakes", "cookies", "other"]
+
+350°F
+
+Need:
+2 more breads
+5 more cakes
+0 more cookies
+2 more other
+4 more pastries
+
+{
+    "name": "Lemon Ricotta Muffins",
+    "id": 1017,
+"yield": "1 dozen muffins",
+"credit":"Whole and Heavenly Oven",
+"materials": ["muffin liners"],
+    "prepTime": 15,
+    "bakeTime": 20,
+    "totalTime": 35,
+    "imageName": "crumpet",
+    "type": "other",
+    "sysIng": ["ricotta cheese", "sugar", "flour", "honey", "baking powder", "salt", "lemon", "egg", "vegetable oil", "milk", "raspberries"],
+    "ingredients": [
+        "2 cups flour",
+"1 tablespoon baking powder",
+"1/4 teaspoon salt",
+"1 cup ricotta cheese",
+"1/2 cup sugar",
+"1/4 cup honey",
+"1/4 cup lemon juice",
+"2 tablespoons grated lemon zest",
+"2 large eggs",
+"1/4 cup vegetable oil",
+"1/2 cup milk",
+"1 cup fresh (or unthawed frozen) raspberries",
+"1 tablespoon flour",
+"Powdered sugar (optional)"
+                ],
+    "instructions": [
+          "Preheat oven to 425°F. Line a 12-cup muffin tin with muffin liners.",
+"In a medium bowl, whisk together the flour, baking powder, and salt. Set aside",
+"In a large bowl, whisk together the ricotta cheese, sugar, honey, lemon juice, zest, eggs, oil, and milk. Fold the flour mixture into the liquid mixture until the batter is just combined.",
+"In a small bowl, toss the raspberries with some flour. Very gently, fold the raspberries into the muffin batter.",
+"Fill the muffin cups 3/4 full of batter. Garnish with extra raspberries, if you wish. Bake at 425°F for five minutes, then reduce the heat to 375°F and bake another 15-20 minutes or until a toothpick comes out clean.",
+"Remove the muffins from the tin and allow to cool on a wire rack. Dust with sugar, if desired."
+    ],
+"ingxins": [
+            [],
+            [0,1,2],
+            [3,4,5,6,7,8,9,10],
+            [11,12],
+            [],
+            []
+        ]
+
+}
